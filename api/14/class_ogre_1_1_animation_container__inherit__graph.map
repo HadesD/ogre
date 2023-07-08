@@ -1,0 +1,11 @@
+<map id="Ogre::AnimationContainer" name="Ogre::AnimationContainer">
+<area shape="rect" id="node1" title="An animation container interface, which allows generic access to sibling animations." alt="" coords="5,107,196,133"/>
+<area shape="rect" id="node2" href="$class_ogre_1_1_mesh.html" title="Resource holding data about 3D mesh." alt="" coords="275,31,371,57"/>
+<area shape="rect" id="node4" href="$class_ogre_1_1_scene_manager.html" title="Manages the organisation and rendering of a &#39;scene&#39;: a collection of objects and potentially world ge..." alt="" coords="244,107,401,133"/>
+<area shape="rect" id="node8" href="$class_ogre_1_1_skeleton.html" title="A collection of Bone objects used to animate a skinned mesh." alt="" coords="264,183,381,209"/>
+<area shape="rect" id="node3" href="$class_ogre_1_1_patch_mesh.html" title="Patch specialisation of Mesh." alt="" coords="483,5,615,32"/>
+<area shape="rect" id="node5" href="$class_ogre_1_1_bsp_scene_manager.html" title="Specialisation of the SceneManager class to deal with indoor scenes based on a BSP tree." alt="" coords="459,56,640,83"/>
+<area shape="rect" id="node6" href="$class_ogre_1_1_octree_scene_manager.html" title="Specialized SceneManager that divides the geometry into an octree in order to facilitate spatial quer..." alt="" coords="449,107,649,133"/>
+<area shape="rect" id="node7" href="$class_ogre_1_1_p_c_z_scene_manager.html" title="Specialized SceneManager that uses Portal&#45;Connected&#45;Zones to divide the scene spatially." alt="" coords="458,157,641,184"/>
+<area shape="rect" id="node9" href="$class_ogre_1_1_skeleton_instance.html" title="A SkeletonInstance is a single instance of a Skeleton used by a world object." alt="" coords="463,208,635,235"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Ogre::RenderTargetListener" name="Ogre::RenderTargetListener">
+<area shape="rect" id="node1" title="A interface class defining a listener which can be used to receive notifications of RenderTarget even..." alt="" coords="5,5,204,32"/>
+<area shape="rect" id="node2" href="$class_ogre_1_1_compositor_chain.html" title="Chain of compositor effects applying to one viewport." alt="" coords="18,80,191,107"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" title=" " alt="" coords="28,165,181,192"/>
+<area shape="rect" id="node2" href="$class_ogre_1_1_composition_pass.html" title="Object representing one pass or operation in a composition sequence." alt="" coords="272,5,445,32"/>
+<area shape="rect" id="node3" href="$class_ogre_1_1_composition_target_pass.html" title="Object representing one render to a RenderTarget or Viewport in the Ogre Composition framework." alt="" coords="252,56,465,83"/>
+<area shape="rect" id="node4" href="$class_ogre_1_1_composition_technique.html" title="Base composition technique, can be subclassed in plugins." alt="" coords="255,107,463,133"/>
+<area shape="rect" id="node5" href="$class_ogre_1_1_composition_technique_1_1_texture_definition.html" title="Local texture definition." alt="" coords="255,158,463,199"/>
+<area shape="rect" id="node6" href="$class_ogre_1_1_compositor_chain.html" title="Chain of compositor effects applying to one viewport." alt="" coords="272,341,445,368"/>
+<area shape="rect" id="node7" href="$class_ogre_1_1_compositor_instance.html" title="An instance of a Compositor object for one Viewport." alt="" coords="263,224,454,251"/>
+<area shape="rect" id="node8" href="$class_ogre_1_1_compositor_instance_1_1_render_system_operation.html" title="Specific render system operation." alt="" coords="263,275,454,317"/>
+<area shape="rect" id="node9" href="$class_ogre_1_1_render_target_listener.html" title="A interface class defining a listener which can be used to receive notifications of RenderTarget even..." alt="" coords="5,316,204,343"/>
+<area shape="rect" id="node10" href="$class_ogre_1_1_viewport_1_1_listener.html" title="Listener interface so you can be notified of Viewport changes." alt="" coords="15,367,194,393"/>
+</map>

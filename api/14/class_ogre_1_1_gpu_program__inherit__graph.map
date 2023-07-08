@@ -1,0 +1,9 @@
+<map id="Ogre::GpuProgram" name="Ogre::GpuProgram">
+<area shape="rect" id="node1" title="Defines a program which runs on the GPU such as a vertex or fragment program." alt="" coords="93,155,235,181"/>
+<area shape="rect" id="node5" href="$class_ogre_1_1_high_level_gpu_program.html" title="Abstract base class representing a high&#45;level program (a vertex or fragment program)." alt="" coords="61,229,267,256"/>
+<area shape="rect" id="node2" href="$class_ogre_1_1_resource.html" title="Abstract class representing a loadable resource." alt="" coords="103,80,225,107"/>
+<area shape="rect" id="node3" href="$class_ogre_1_1_string_interface.html" title="Class defining the common interface which classes can use to present a reflection&#45;style,..." alt="" coords="5,5,163,32"/>
+<area shape="rect" id="node4" title=" " alt="" coords="187,5,301,32"/>
+<area shape="rect" id="node6" href="$class_ogre_1_1_cg_program.html" title="Specialisation of HighLevelGpuProgram to provide support for nVidia&#39;s CG language." alt="" coords="9,304,143,331"/>
+<area shape="rect" id="node7" href="$class_ogre_1_1_g_l_s_lang_program.html" title="Specialisation of HighLevelGpuProgram to provide support for the GLSLang compiler by Khronos." alt="" coords="167,304,339,331"/>
+</map>

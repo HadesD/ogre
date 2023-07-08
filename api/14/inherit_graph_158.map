@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" title=" " alt="" coords="5,208,100,235"/>
+<area shape="rect" id="node2" href="$class_ogre_1_1_plugin.html" title="Class defining a generic OGRE plugin." alt="" coords="148,208,249,235"/>
+<area shape="rect" id="node3" href="$class_ogre_1_1_assimp_plugin.html" title=" " alt="" coords="333,5,483,32"/>
+<area shape="rect" id="node4" href="$class_ogre_1_1_bsp_scene_manager_plugin.html" title="Plugin instance for BSPSceneManager." alt="" coords="297,56,519,83"/>
+<area shape="rect" id="node5" href="$class_ogre_1_1_cg_plugin.html" title="Plugin instance for Cg Program Manager." alt="" coords="349,107,467,133"/>
+<area shape="rect" id="node6" href="$class_ogre_1_1_dot_scene_plugin.html" title=" " alt="" coords="327,157,489,184"/>
+<area shape="rect" id="node7" href="$class_ogre_1_1_g_l_s_lang_plugin.html" title="Plugin instance for Cg Program Manager." alt="" coords="329,208,487,235"/>
+<area shape="rect" id="node8" href="$class_ogre_1_1_octree_plugin.html" title="Plugin instance for Octree Manager." alt="" coords="336,259,480,285"/>
+<area shape="rect" id="node9" href="$class_ogre_1_1_octree_zone_plugin.html" title="Plugin instance for OctreeZone." alt="" coords="319,309,497,336"/>
+<area shape="rect" id="node10" href="$class_ogre_1_1_p_c_z_plugin.html" title="Plugin instance for PCZ Manager." alt="" coords="345,360,471,387"/>
+<area shape="rect" id="node11" href="$class_ogre_1_1_particle_f_x_plugin.html" title="Plugin instance for ParticleFX Manager." alt="" coords="325,411,491,437"/>
+</map>

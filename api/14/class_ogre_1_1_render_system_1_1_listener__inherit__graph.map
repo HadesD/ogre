@@ -1,0 +1,4 @@
+<map id="Ogre::RenderSystem::Listener" name="Ogre::RenderSystem::Listener">
+<area shape="rect" id="node1" title="Defines a listener on the custom events that this render system can raise." alt="" coords="8,5,164,47"/>
+<area shape="rect" id="node2" href="$class_ogre_1_1_overlay_system.html" title="This class simplify initialization / finalization of the overlay system." alt="" coords="5,95,167,121"/>
+</map>

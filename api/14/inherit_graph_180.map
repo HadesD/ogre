@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_ogre_1_1_render_queue_listener.html" title="Abstract interface which classes must implement if they wish to receive events from the render queue." alt="" coords="5,5,207,32"/>
+<area shape="rect" id="node2" href="$class_ogre_1_1_overlay_system.html" title="This class simplify initialization / finalization of the overlay system." alt="" coords="255,64,416,91"/>
+<area shape="rect" id="node3" href="$class_ogre_1_1_render_system_1_1_listener.html" title="Defines a listener on the custom events that this render system can raise." alt="" coords="28,57,184,98"/>
+<area shape="rect" id="node4" href="$class_ogre_1_1_singleton.html" title=" " alt="" coords="12,122,200,163"/>
+</map>

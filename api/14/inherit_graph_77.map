@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,108,83"/>
+<area shape="rect" id="node2" href="$class_ogre_1_1_gpu_program_factory.html" title="Interface definition for factories of GpuProgram." alt="" coords="156,31,347,57"/>
+<area shape="rect" id="node5" href="$class_ogre_1_1_instance_manager.html" title="This is the main starting point for the new instancing system." alt="" coords="165,81,338,108"/>
+<area shape="rect" id="node3" href="$class_ogre_1_1_cg_program_factory.html" title="Factory class for Cg programs." alt="" coords="414,5,595,32"/>
+<area shape="rect" id="node4" href="$class_ogre_1_1_g_l_s_lang_program_factory.html" title="Factory class for GLSLang programs." alt="" coords="395,56,615,83"/>
+</map>
